@@ -1,5 +1,6 @@
 def my_hash
-  my_hash["name"] = "molly"
+  my_hash = {
+    "name" => ""
 end
 
 
